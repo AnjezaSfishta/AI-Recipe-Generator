@@ -6,7 +6,7 @@ Aplikacioni ofron mbështetje të plotë për përkthimin e përbërësve (p.sh.
 2. **Kërkoni në Shqip**: Nëse nuk dini një fjalë anglisht, klikoni butonin e përkthimit, kërkoni p.sh. *"spinaq"* ose *"oriz"*, dhe shtojeni direkt.
 3. **Zgjidhni Preferencat**: Vendosni nëse dëshironi recetë Vegetariane, Vegane, Keto, Gluten-Free si dhe kohën maksimale të gatimit.
 4. **Gatuani interaktivisht**: Klikoni butonin për të gjeneruar recetën e mrekullueshme dhe nisni udhëtimin tuaj të shijshëm!
-## Run Locally
+
    <img width="1263" height="916" alt="image" src="https://github.com/user-attachments/assets/2379192c-0f69-42d3-882d-f09ada71ead3" />
 Aplikacioni eshte bere deploy ne linkun: https://ai-recipe-generator-492907832726.europe-west2.run.app/
 **Parakushtet:**  Node.js
