@@ -1,0 +1,6 @@
+{
+  "name": "AI Recipe Generator",
+  "description": "A beautiful, modern web application that generates delicious culinary recipes from ingredients using a sophisticated instant offline Home Chef algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
