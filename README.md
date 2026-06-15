@@ -1,4 +1,4 @@
-# Gjeneratori i Recetave Inteligjente 🍳 (Local Home Chef)
+# Gjeneratori i Recetave Inteligjente  (Local Home Chef)
 
 Një aplikacion modern, i kuruar me kujdes dhe i shpejtë, i cili merr përbërësit që kani në shtëpi dhe krijon automatikisht receta profesionale kulinare hap pas hapi, plotësisht në mënyrë lokale dhe pa pasur nevojë për lidhje të jashtme apo çelësa API.
 
@@ -21,4 +21,3 @@ Aplikacioni ofron mbështetje të plotë për përkthimin e përbërësve (p.sh.
 3. Run aplikacionin:
    `npm run dev`
 
-Aplikacioni eshte bere deploy ne linkun: https://ai-recipe-generator-492907832726.europe-west2.run.app/
